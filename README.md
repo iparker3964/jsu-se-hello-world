@@ -30,3 +30,5 @@ executable by saying
 
 before running it the first time.
 
+Isaiah Parker
+
